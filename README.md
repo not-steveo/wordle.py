@@ -1,5 +1,5 @@
 # wordle.py
-### Wordle helper because I suck at Wordle.
+### Wordle helper, because I suck at Wordle.
 
 Uses the [PyEnchant](https://pyenchant.github.io/pyenchant/install.html) library.
 
